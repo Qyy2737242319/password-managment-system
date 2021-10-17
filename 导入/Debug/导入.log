@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\ASUS\source\repos\导入\导入\store.h(17,35): warning C4091: “__declspec(dllexport)”: 没有声明变量时忽略“item”的左侧
+    正在创建库 C:\Users\ASUS\source\repos\导入\Debug\导入.lib 和对象 C:\Users\ASUS\source\repos\导入\Debug\导入.exp
+LINK : warning LNK4232: 名称 导入.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  导入.vcxproj -> C:\Users\ASUS\source\repos\导入\Debug\导入.exe
